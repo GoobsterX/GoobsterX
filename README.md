@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @GoobsterX
 - 🌱 I’m currently learning ... Lua & Javascript
+- 📬 You can reach me by contacting @goobsterx on Discord
